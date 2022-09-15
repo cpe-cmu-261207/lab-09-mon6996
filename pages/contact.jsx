@@ -20,7 +20,7 @@ export default function contact()
 						<a
 							href="https://www.facebook.com/mon.chanchanayothin/"
 							target="_blank"
-							rel="noreferrerr"
+							rel="noreferrer"
 						>
 							Thanaporn Chanchanayothin
 						</a>
